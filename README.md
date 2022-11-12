@@ -36,6 +36,7 @@ AIHub **특허 분야 자동분류 데이터** ([Download](https://www.aihub.or.
 ## Models
 
 - [ ] N-Gram model
+- [ ] Naive Bayes (in-progress)
 - [ ] LSTM
 - [ ] Transformer
 
